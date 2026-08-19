@@ -61,8 +61,8 @@
 
 ### Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prasadreddy6363&layout=compact&theme=radical)](https://github.com/Prasadreddy6363)
-
+[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prasadreddy6363&theme=radical)](https://github.com/Prasadreddy6363)
+<hr>
 <h2>📂 Featured Projects</h2>
 
 <h3>💊 Drug Recommendation System</h3>
