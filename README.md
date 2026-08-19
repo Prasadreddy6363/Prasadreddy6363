@@ -56,11 +56,9 @@
 
 ## Stats
 
-<p align="center">
-  <a href="https://github.com/Prasadreddy6363">
-    <img src="https://github-readme-stats.vercel.app/api?username=Prasadreddy6363&show_icons=true&theme=radical" alt="GitHub Stats" />
-  </a>
-</p>
+## Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prasadreddy6363&show_icons=true&theme=radical)
 
 <hr>
 
