@@ -56,10 +56,7 @@
 
 ## Stats
 
-## Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prasadreddy6363&show_icons=true&theme=radical)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Prasadreddy6363&theme=radical)](https://github.com/Prasadreddy6363)
 <hr>
 
 <h2>📂 Featured Projects</h2>
