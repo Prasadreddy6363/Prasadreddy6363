@@ -1,0 +1,106 @@
+<h1 align="center">Hi 👋, I'm Prasad Reddy!</h1>
+<h3 align="center">A Passionate Software Developer from India 🇮🇳</h3>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Vinay-110205&style=flat-square&color=blue" alt="profile views"/>
+</p>
+
+<hr>
+
+<h2>🚀 About Me</h2>
+
+<table>
+<tr>
+<td width="60%">
+
+🎓 Final Year Engineering Student
+
+💻 Passionate about Full Stack Development
+
+🌱 Currently learning <b>HTML, CSS, Javascript, Python Full Stack Developement </b>
+
+🚀 Interested in Web Development,& Open Source
+
+📚 Always exploring new technologies and building projects
+
+⚡ Love solving coding challenges and learning by building
+
+</td>
+
+<td width="40%">
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="250"/>
+</td>
+
+</tr>
+</table>
+
+<hr>
+
+<h2>🛠️ Skills</h2>
+
+<h3>Languages</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,Mysql" />
+</p>
+
+<h3>Frameworks & Technologies</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+</p>
+
+<hr>
+
+<h2>📂 Featured Projects</h2>
+
+<h3>💊 Drug Recommendation System</h3>
+
+<p>
+Recommends medicines based on symptoms using Machine Learning.
+</p>
+
+<b>Tech Stack:</b> Python, Flask, Machine Learning
+
+<br><br>
+
+<h3>👕 Virtual Dressing Using Deep Neural Networks</h3>
+
+<p>
+AI-based virtual try-on system for clothing using Deep Learning.
+</p>
+
+<b>Tech Stack:</b> Python, OpenCV, TensorFlow
+
+<br><br>
+
+<h3>🎓 AR Tryon clothes on user</h3>
+
+<p>
+Alligns the clothes on the user using AR.
+</p>
+
+<b>Tech Stack:</b> Python, ML Tools
+
+<hr>
+
+
+<h2>🌐 Connect With Me</h2>
+
+<p align="left">
+
+<a href="https://github.com/Prasadreddy6363" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/prasad-reddy-62908a25a/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
+</a>
+
+&nbsp;&nbsp;
