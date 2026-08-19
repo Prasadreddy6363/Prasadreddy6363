@@ -54,6 +54,23 @@
   <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
 </p>
 
+---
+
+<h2>Stats</h2>
+
+<p align="center">
+  <a href="https://github.com/Prasadreddy6363" target="_blank">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=Prasadreddy6363&show_icons=true&theme=radical"
+      alt="GitHub Stats"
+      width="750"
+      height="300"
+    />
+  </a>
+</p> 
+
+---
+
 <hr>
 
 <h2>📂 Featured Projects</h2>
